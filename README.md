@@ -1,0 +1,2 @@
+# coordinate_gameupdate_remind
+coordinate_gameupdate_remind
